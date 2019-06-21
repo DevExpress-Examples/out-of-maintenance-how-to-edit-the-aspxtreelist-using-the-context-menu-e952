@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to edit the ASPxTreeList using the context menu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e952/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to use the popup menu for editing, adding and deleting nodes of ASPxTreeList</p><p><strong>See Also:</strong><br />
