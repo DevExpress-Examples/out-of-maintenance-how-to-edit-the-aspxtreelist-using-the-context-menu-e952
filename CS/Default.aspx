@@ -1,11 +1,11 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true"  CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
-<%@ register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dxm" %>
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web" TagPrefix="dxm" %>
 
-<%@ register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web"
     TagPrefix="dxe" %>
 
-<%@ register Assembly="DevExpress.Web.ASPxTreeList.v15.1" Namespace="DevExpress.Web.ASPxTreeList"
+<%@ register Assembly="DevExpress.Web.ASPxTreeList.v13.1" Namespace="DevExpress.Web.ASPxTreeList"
     TagPrefix="dxwtl" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
